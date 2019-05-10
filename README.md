@@ -1,10 +1,12 @@
 # interview
-This code provided to solve this problem:
+Problem description:
 Testing an API Gateway endpoint + Lambda
 
-The following steps has been taken:
+API END POINT:
 
 The API URL is: "https://7dal3vydn7.execute-api.us-east-1.amazonaws.com/default/RestAWSRegionsAPI"
+
+
 Scenario 1: The response statuscode will be 200 if request method is "GET" or "POST"
             The data in case of status code 200 is list of all aws regions and their information including availability zones in JSON format
 
